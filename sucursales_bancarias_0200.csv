@@ -1,0 +1,7 @@
+﻿id_sucursal,nombre_sucursal,gerente,empleados,cajeros_automaticos,clientes_activos,captacion_mensual_millones,ano_apertura,horario_atencion,calificacion_servicio
+201,Centro Historico,Sr. Lopez,25,4,5000,50,1995,9:00-16:00,4.2
+202,Polanco,Sra. Diaz,35,6,12000,150,2005,9:00-19:00,4.5
+203,Santa Fe,Sr. Ramirez,40,8,15000,200,2015,9:00-19:00,4.7
+204,Del Valle,Sra. Torres,20,3,4000,40,1980,9:00-16:00,4.0
+205,Coyoacan,Sr. Gomez,18,2,3500,35,1985,9:00-16:00,3.9
+206,Reforma,Sra. Vargas,30,5,10000,120,2010,9:00-19:00,4.6
